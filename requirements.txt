@@ -5,3 +5,15 @@ pandas == 1.2.4
 keybert
 flair
 click<8
+bert-score==0.3.13
+parrot @ git+https://github.com/PrithivirajDamodaran/Parrot_Paraphraser.git@720a87a1ee557d8ed8d9a021adbdd1dd5616c5f9
+transformer-smaller-training-vocab==0.3.2
+torch 
+transformers 
+sentencepiece 
+sacrebleu 
+bert_score 
+rouge_score 
+datasets 
+tensorflow-text 
+sentence_splitter
